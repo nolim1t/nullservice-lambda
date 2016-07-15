@@ -1,0 +1,24 @@
+{
+    "name": "nullservice",
+    "version": "0.0.1",
+    "description": "This is a service to demonstrate the use of AWS lambda in various contexts. Showing JSON responses, doing redirects or showing other kind of responses",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "dependencies": {
+        "async": "^1.5.2",
+        "aws-sdk": "^2.2.45",
+        "node-uuid": "^1.4.7",
+        "request": "2.69.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nolim1t/nullservice-lambda.git"
+    },
+    "author": "BT <bt@perceptionz.net>",
+    "bugs": {
+        "url": "https://github.com/nolim1t/nullservice-lambda/issues"
+    },
+    "homepage": "https://github.com/nolim1t/nullservice-lambda"
+}
